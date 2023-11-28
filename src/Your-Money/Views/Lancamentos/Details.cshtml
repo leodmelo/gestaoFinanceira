@@ -1,0 +1,78 @@
+﻿@model Your_Money.Models.Lancamento
+
+@{
+    ViewData["Title"] = "Detalhar Lançamento";
+}
+
+<body class="background-image">
+
+<nav>
+    <ol class="breadcrumb p-0 pt-0 pb-3" style="background: white;">
+        <li class="breadcrumb-item"><a asp-area="" asp-controller="Usuarios" asp-action="Index">Home</a></li>
+        <li class="breadcrumb-item"><a asp-area="" asp-controller="Lancamentos" asp-action="Index">Lançamentos</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Detalhar Lançamento</li>
+    </ol>
+</nav>
+
+<h2 style="color:darkblue">Detalhar Lançamento</h2>
+<hr>
+
+    <div class="container">
+        <form asp-action="Edit" id="editForm">
+            <div class="row">
+                <div class="col-md-3">
+                    <div class="form-group">
+                        <b style="color:darkblue"><label asp-for="Tipo" class="control-label"></label></b>
+                        <select asp-for="Tipo" class="form-control shadow-sm form-input" asp-items="Html.GetEnumSelectList<Transacao>()" disabled></select>
+                        <input type="hidden" asp-for="Tipo" />
+                        <span asp-validation-for="Tipo" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <b style="color:darkblue"><label asp-for="Classificacao" class="control-label"></label></b>
+                        <select asp-for="Classificacao" class="form-control shadow-sm" asp-items="Html.GetEnumSelectList<Classificacao>()" disabled></select>
+                        <input type="hidden" asp-for="Classificacao" />
+                        <span asp-validation-for="Classificacao" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <b style="color:darkblue"><label asp-for="Data" class="control-label"></label></b>
+                        <input asp-for="Data" class="form-control shadow-sm" type="date" disabled/>
+                        <span type="hidden" asp-validation-for="Data" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <b style="color:darkblue"><label asp-for="Status" class="control-label"></label></b>
+                        <select asp-for="Status" class="form-control shadow-sm" asp-items="Html.GetEnumSelectList<StatusTransacao>()" disabled></select>
+                        <span type="hidden" asp-validation-for="Status" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="form-group">
+                        <b style="color:darkblue"><label asp-for="Via" class="control-label"></label></b>
+                        <select asp-for="Via" class="form-control shadow-sm" asp-items="Html.GetEnumSelectList<Via>()" disabled></select>
+                        <input type="hidden" asp-for="Via" />
+                        <span asp-validation-for="Via" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <b style="color:darkblue"><label asp-for="Valor" class="control-label"></label></b>
+                        <input asp-for="Valor" class="form-control shadow-sm" placeholder="R$ 0,00" disabled />
+                        <span type="hidden" asp-validation-for="Valor" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <b style="color:darkblue"><label asp-for="NumeroParcelas" class="control-label"></label></b>
+                        <input asp-for="NumeroParcelas" class="form-control shadow-sm" placeholder="Se sim, digite o nº de repetições" disabled />
+                        <span type="hidden" asp-validation-for="NumeroParcelas" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <b style="color:darkblue"><label asp-for="Descricao" class="control-label"></label></b>
+                        <input asp-for="Descricao" class="form-control shadow-sm" placeholder="Descreva seu lançamento" disabled />
+                        <span type="hidden" asp-validation-for="Descricao" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <a asp-action="Index" class="btn btn-secondary">Voltar</a>
+                <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary">Editar</a>
+            </div>
+        </form>
+        </div>
+
+</body>
