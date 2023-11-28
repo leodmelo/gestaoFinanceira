@@ -1,4 +1,4 @@
-## SMART WALLET
+`PROJETO: SMART WALLET `
 
 O projeto desenvolvido tem como objetivo criar uma aplicação que possa Prover as pessoas, um maior controle e gestão de suas finanças pessoais, através de uma aplicação fluída e com uma interface simples, de fácil acessibilidade, que possa:
 
