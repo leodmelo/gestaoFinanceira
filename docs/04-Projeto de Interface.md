@@ -69,8 +69,3 @@ anos, se ele economizar o valor Y ao final de cada mês.	Média
 Requisitos funcionais contemplados nesta tela:
 * `RF-06` A aplicação deve permitir o auto gerenciamentos do usuários.
 ![Usuario logado 2](img/Wireframe-YourMoney(5).png)
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-> 03-Metodologia- https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t7-your-money/blob/main/docs/03-Metodologia.md >
-> 05-Arquitetura da Solução- https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t7-your-money/blob/main/docs/05-Arquitetura%20da%20Solu%C3%A7%C3%A3o.md >
