@@ -1,4 +1,8 @@
-# SMART WALLET
+# YOUR MONEY
+
+`ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
+
+`DESENVOLVIMENTO DE APLICAÇÃO BACKEND`
 
 O projeto desenvolvido tem como objetivo criar uma aplicação que possa Prover as pessoas, um maior controle e gestão de suas finanças pessoais, através de uma aplicação fluída e com uma interface simples, de fácil acessibilidade, que possa:
 
@@ -6,6 +10,19 @@ O projeto desenvolvido tem como objetivo criar uma aplicação que possa Prover 
 * Dar dicas e recomendações para um controle financeiro mais assertivo
 * Fazer com que os usuarios tenham mais responsabilidade com seu dinheiro.
 
+## Integrantes
+
+* Daniel Mendes Rufino Silva
+* Leonardo Buck Alves
+* Leonardo Melo de Lima
+* Pedro Henrique da Silva
+* Rafael Santana de Oliveira
+* Stephanye Castellano
+
+
+## Orientador
+
+* Luciana de Nardin
 
 ## Instruções de utilização
 
