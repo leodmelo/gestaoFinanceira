@@ -37,7 +37,3 @@ https://user-images.githubusercontent.com/53917285/236698963-e296683b-77e7-4372-
 ### CT-26 – Visualizar um local destinado as dicas
 https://user-images.githubusercontent.com/53917285/236698965-0a5ffb09-e94f-43cb-844d-9186bc66fe3a.mp4
 
-
-
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
