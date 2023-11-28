@@ -101,12 +101,5 @@ O diagrama de casos de uso é o próximo passo após a elicitação de requisito
 ![Diagrama de caso de uso (6)](https://user-images.githubusercontent.com/53917285/229490518-434e2e03-b61d-432e-9906-c10223b74844.png)
 
 
-
 > **Referências**:
 > 1. https://www.serasa.com.br/limpa-nome-online/blog/mapa-da-inadimplencia-e-renogociacao-de-dividas-no-brasil/ Acesso em 01/03/2023.
-
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-> 01-Documentação de Contexto https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t7-your-money/blob/main/docs/01-Documenta%C3%A7%C3%A3o%20de%20Contexto.md >
-> 03-Metodologia  https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t7-your-money/blob/main/docs/03-Metodologia.md >
-
