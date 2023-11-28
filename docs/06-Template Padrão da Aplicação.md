@@ -25,8 +25,3 @@ Modal destinado ao lançamento de despesas ou receitas do usuário
 ## Tela exibição de relatórios
 Tela destinada a exibição de relatório no período selecionado pelo usuário
 ![Usuario logado 1](img/Wireframe-YourMoney(4).png)
-
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-> 05-Arquitetura da Solução - https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t7-your-money/blob/main/docs/05-Arquitetura%20da%20Solu%C3%A7%C3%A3o.md >
