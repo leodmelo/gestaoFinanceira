@@ -1,4 +1,4 @@
-# SMART WALLET
+## SMART WALLET
 
 O projeto desenvolvido tem como objetivo criar uma aplicação que possa Prover as pessoas, um maior controle e gestão de suas finanças pessoais, através de uma aplicação fluída e com uma interface simples, de fácil acessibilidade, que possa:
 
@@ -34,18 +34,6 @@ O link e o usuário/senha descritos acima são apenas exemplos de como tais info
 <li><a href="docs/12-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
 <li><a href="docs/13-Referências.md"> Referências</a></li>
 </ol>
-
-# Código
-
-<li><a href="src/README.md"> Código Fonte</a></li>
-
-# Apresentação
-
-<li><a href="presentation/"> Apresentação da solução</a></li>
-
-# Vídeo de apresentação do projeto
-
-https://user-images.githubusercontent.com/110863413/234155199-efdbd2e3-164e-49c3-8155-b03f20693cc0.mp4
 
 
 
