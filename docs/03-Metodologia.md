@@ -6,30 +6,13 @@ Para desenvolvimento do projeto da Your Money, a equipe de desenvolvimento usar�
 
 ## Controle de Versão
 
-A ferramenta de controle de versão adotada no projeto foi [Github](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t7-your-money) também utilizado para hospedagem do repositório.
-
 O projeto segue a seguinte convenção para o nome de branches:
 
 * `main`: versão já testada do software
 * `testing`: versão em que são realizados os testes do software
 * `dev`: versão de desenvolvimento do software
 
-## Gerenciamento de Projeto
 
-Para a execução do projeto da Your Money, será utilizada a metodologia Scrum, metodologia extremamente difundida e reconhecida em todo o mundo para desenvolvimento de projetos agéis de TI.
-
-### Divisão de Papéis
-
-A equipe de desenvolvimento do projeto da Your Money está dividida assim:
-
-* **Scrum Master**: Stephanye Castellano
-* **Product Owner**: Daniel Mendes
-* **Equipe de Desenvolvimento**:
-  * Leonardo B. Alves
-  * Rafael Santana Oliveira 
-  * Pedro Henrique
-* **Equipe de Design**:
-  * Leonardo Melo de Lima
 
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o GitHub Projects, onde as atividades a serem desenvolvidas, estão estruturada em listas de status, conforme descrito abaixo:
 
